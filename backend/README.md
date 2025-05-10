@@ -1,0 +1,15 @@
+# Job Portal Backend 
+- Backend Setup (installation)
+    - bcrypt (to convert data from raw format to other)
+    - cloudinary
+    - cookie-parser
+    - cors (to connect frontend and backend)
+    - dotenv
+    - express
+    - express-fileupload
+    - jsonwebtoken
+    - mongoose
+    - node-corn
+    - nodemailer (to send email)
+    - validator (for email validation)
+- Created file structure
