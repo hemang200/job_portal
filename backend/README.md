@@ -13,3 +13,10 @@
     - nodemailer (to send email)
     - validator (for email validation)
 - Created file structure
+- using postman(for allowing users to send HTTP requests, view responses, and manage API workflows)
+- register
+- login
+- logout
+- get user
+- updata profile
+- auth
